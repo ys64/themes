@@ -266,6 +266,7 @@
    (org-hide :foreground hidden)
    (org-block :background (doom-darken base2 0.65))
    (org-block-begin-line :background (doom-darken base2 0.65) :foreground comments :extend t)
+   (org-scheduled-previously :bold bold)
    (solaire-org-hide-face :foreground hidden)
 
    ;;; web-mode
